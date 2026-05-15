@@ -10,9 +10,6 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IpScanner", "IpScanner\IpScanner.pyproj", "{EE2237BC-7909-4999-BCA6-2A8FE48B697E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B547FDA8-ABD6-4F43-A93F-7CB117D11C2C}"
-	ProjectSection(SolutionItems) = preProject
-		README.ME = README.ME
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
