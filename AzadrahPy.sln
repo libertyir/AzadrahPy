@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AzadrahPy", "AzadrahPy\AzadrahPy.pyproj", "{814FA2B3-9DDB-494A-8787-A84271BDBAD2}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DomainScanner", "DomainScanner\DomainScanner.pyproj", "{E86FD72C-B499-482C-8760-1789EB8F3C93}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IpScanner", "IpScanner\IpScanner.pyproj", "{EE2237BC-7909-4999-BCA6-2A8FE48B697E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,10 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{814FA2B3-9DDB-494A-8787-A84271BDBAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{814FA2B3-9DDB-494A-8787-A84271BDBAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86FD72C-B499-482C-8760-1789EB8F3C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86FD72C-B499-482C-8760-1789EB8F3C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2237BC-7909-4999-BCA6-2A8FE48B697E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2237BC-7909-4999-BCA6-2A8FE48B697E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
