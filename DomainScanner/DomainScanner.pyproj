@@ -48,6 +48,9 @@
     <Folder Include="domain_ui\components\" />
     <Folder Include="geoparser\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="README.ME" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
        Visual Studio and specify your pre- and post-build commands in
