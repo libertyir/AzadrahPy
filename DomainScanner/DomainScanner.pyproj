@@ -49,6 +49,7 @@
     <Folder Include="geoparser\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Domains.Sample.txt" />
     <Content Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />

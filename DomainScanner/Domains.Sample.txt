@@ -1,0 +1,15 @@
+
+geosite:akamai
+geosite:google
+geosite:cloudflare
+geosite:microsoft
+yahoo.com
+amazon.com
+aws.amazon.com
+geosite:ir
+github.com
+geosite:vercel
+geosite:fastly
+geosite:reddit
+geosite:netlify
+geosite:cnn
